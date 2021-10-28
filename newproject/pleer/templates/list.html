@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %} Список композиций {% endblock %}
+
+{% block content %}
+    {% if all_composition  %}
+        {% for i in all_composition  %}
+            <a href = "a"> {{i.name}}  </a>
+        {% endfor %}
+    {% endif %}
+{% endblock %}

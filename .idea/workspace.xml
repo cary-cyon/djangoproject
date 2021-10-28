@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/pleer/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/newproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/newproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/newproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/newproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/pleer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
@@ -61,5 +60,15 @@
       <updated>1635073604339</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" width="986" height="685" key="#Notifications" timestamp="1635097757661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" width="986" height="685" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1635097757661" />
+    <state x="312" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1635421281446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="168" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1635421281446" />
   </component>
 </project>
