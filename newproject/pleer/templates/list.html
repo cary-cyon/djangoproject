@@ -5,7 +5,10 @@
 {% block content %}
     {% if all_composition  %}
         {% for i in all_composition  %}
-            <a href = "a"> {{i.name}}  </a>
+            <a href = "#"> {{i.name}}<br> </a>
         {% endfor %}
+    {% else %}
+        НИЧЕГО НЕТ )=
     {% endif %}
+
 {% endblock %}

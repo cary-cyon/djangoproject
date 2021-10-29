@@ -6,7 +6,7 @@ from .models import Composition
 
 def index(request):
     all_composition = Composition.objects.all()
-    return render(request, 'list.html', {'composition': all_composition})
+    return render(request, 'list.html', {'all_composition': all_composition})
 
 
 def test(request):
