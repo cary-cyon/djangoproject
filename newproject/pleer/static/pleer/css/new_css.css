@@ -1,3 +1,19 @@
 img{
     background: orangered;
 }
+button{
+    border-color: aqua;
+    color: aqua;
+}
+.audio-track {
+    width: 250px;
+    height: 3px;
+    background-color: blue;
+    margin: 20px 0
+}
+
+.time {
+    width: 0;
+    height: 3px;
+    background-color: orangered;
+}

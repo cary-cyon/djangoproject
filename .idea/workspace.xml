@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/newproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/newproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/newproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/newproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newproject/pleer/static/pleer/css/new_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/static/pleer/css/new_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
         <option value="Python Script" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -82,7 +81,7 @@
       <updated>1635073604339</updated>
       <workItem from="1635431284168" duration="6554000" />
       <workItem from="1635509022120" duration="6274000" />
-      <workItem from="1636026178902" duration="5394000" />
+      <workItem from="1636026178902" duration="12175000" />
     </task>
     <servers />
   </component>
