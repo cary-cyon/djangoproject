@@ -3,25 +3,23 @@
 {% block title %} Список композиций {% endblock %}
 
 {% block content %}
-    {% if all_composition  %}
-        {% for i in all_composition  %}
-            <a href = "#"> {{i.name}}<br> </a>
-            <img src="{{i.cover.url}}" width="189" height="255" > <br>
+<!--    {% if all_composition  %}-->
+<!--        {% for i in all_composition  %}-->
+<!--            <a href = "#"> {{i.name}}<br> </a>-->
+<!--            <img src="{{i.cover.url}}" width="189" height="255" > <br>-->
 
-        {% endfor %}
+<!--        {% endfor %}-->
+    {% for i in all_composition %}
+        <p>{{ i.name }}</p><br>
+        <img src="{{ i.cover.url }}" width="188px" height="250px "><br>
+        <audio id="audio" src="{{ i.audio.url }}" ></audio>
+    {% endfor %}
         <br>
 
-        <div id="controls">
-            <div class="audio-track">
-                <div class="time">
 
-                </div>
-            </div>
-            <button class="play">Play</button>
-            <button class="pause" id = "pause">Pause</button>
-            <button class="prev">&#60;prev</button>
-            <button class="next">next&#62;</button>
-        </div>
+
+
+
     {% else %}
         НИЧЕГО НЕТ )=
     {% endif %}

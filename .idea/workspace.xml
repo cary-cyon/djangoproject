@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/static/pleer/css/new_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/static/pleer/css/new_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newproject/pleer/static/pleer/js/pleer_button.js" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/static/pleer/js/pleer_button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newproject/pleer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,11 @@
       <updated>1635073604339</updated>
       <workItem from="1635431284168" duration="6554000" />
       <workItem from="1635509022120" duration="6274000" />
-      <workItem from="1636026178902" duration="12175000" />
+      <workItem from="1636026178902" duration="12792000" />
+      <workItem from="1636116084915" duration="4702000" />
+      <workItem from="1636128065487" duration="606000" />
+      <workItem from="1636129352422" duration="2364000" />
+      <workItem from="1636204879150" duration="3089000" />
     </task>
     <servers />
   </component>
@@ -98,5 +103,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
