@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/static/pleer/js/pleer_button.js" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/static/pleer/js/pleer_button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/templates/pleer/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newproject/pleer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/pleer/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +80,7 @@
       <workItem from="1636116084915" duration="4702000" />
       <workItem from="1636128065487" duration="606000" />
       <workItem from="1636129352422" duration="2364000" />
-      <workItem from="1636204879150" duration="3089000" />
+      <workItem from="1636204879150" duration="3697000" />
     </task>
     <servers />
   </component>
