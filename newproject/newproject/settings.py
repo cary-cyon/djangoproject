@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'pleer.apps.PleerConfig',
     'playlist.apps.PlaylistConfig',
-    'theme',
 ]
 
 MIDDLEWARE = [
