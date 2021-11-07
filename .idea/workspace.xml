@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newproject/playlist/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newproject/playlist/views.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="01e6a4fe-e74b-40ae-9251-85f3163eafac" name="Default Changelist" comment="" />
+>>>>>>> PleerBranch
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,8 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,10 +49,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../some_guy_project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vlad\PycharmProjects\djangoproject\newproject\pleer\templates\pleer" />
       <recent name="C:\Users\Vlad\PycharmProjects\djangoproject\newproject\media\audios" />
       <recent name="C:\Users\Vlad\PycharmProjects\djangoproject\newproject\media\images" />
     </key>
@@ -75,15 +83,38 @@
       <option name="presentableId" value="Default" />
       <updated>1635073604339</updated>
       <workItem from="1635431284168" duration="6554000" />
+<<<<<<< HEAD
       <workItem from="1635509022120" duration="5602000" />
       <workItem from="1636285024450" duration="577000" />
+=======
+      <workItem from="1635509022120" duration="6274000" />
+      <workItem from="1636026178902" duration="12792000" />
+      <workItem from="1636116084915" duration="4702000" />
+      <workItem from="1636128065487" duration="606000" />
+      <workItem from="1636129352422" duration="2364000" />
+      <workItem from="1636204879150" duration="3697000" />
+>>>>>>> PleerBranch
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> PleerBranch
   </component>
 </project>

@@ -1,0 +1,27 @@
+{% extends 'pleer\base.html' %}
+{% load static %}
+{% block title %} Список композиций {% endblock %}
+
+{% block content %}
+<!--    {% if all_composition  %}-->
+<!--        {% for i in all_composition  %}-->
+<!--            <a href = "#"> {{i.name}}<br> </a>-->
+<!--            <img src="{{i.cover.url}}" width="189" height="255" > <br>-->
+
+<!--        {% endfor %}-->
+    {% for i in all_composition %}
+        <p>{{ i.name }}</p><br>
+        <img src="{{ i.cover.url }}" width="188px" height="250px "><br>
+        <audio id="audio" src="{{ i.audio.url }}" ></audio>
+    {% endfor %}
+        <br>
+
+
+
+
+
+    {% else %}
+        НИЧЕГО НЕТ )=
+    {% endif %}
+
+{% endblock %}
