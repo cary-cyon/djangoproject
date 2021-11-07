@@ -30,9 +30,14 @@
     </div>
   </header>
 
-    {% for i in compositions %}
+    {% for i in playlists %}
     <div class="alert alert-success mt-2">
-            <h2><a href="/pleer/?page={{i.id}}">{{i.author}} - {{ i.name }} (ID: {{ i.id }})</a></h2><br>
+            <h2>{{ i.cover }} - {{ i.name }}</h2><br>
+            <ul>
+            {% for j in compositions %}
+                <li><h3>{{ j.author }} - {{ j.name }}</h3></li><br>
+            {% endfor %}
+            </ul>
         </div>
     {% endfor %}
         <br>
