@@ -19,4 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path("pleer/", include("pleer.urls")),
     path('admin/', admin.site.urls),
+    path('playlist/', include("playlist.urls")),
 ]
