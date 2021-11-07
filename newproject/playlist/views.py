@@ -1,9 +1,7 @@
 from django.shortcuts import render
-from django.http import HttpResponse
-from .models import Music, Album
-# Create your views here.
+from pleer.models import Composition
+
+
 def index(request):
-    music=Music.objects.all()
-    return render(request, 'playlists.html', {
-        'music':music
-    })
+    compositions = Composition.objects.all()
+    return render(request, 'playlist/playlist.html', {'title': 'Список треков', 'compositions': compositions})
